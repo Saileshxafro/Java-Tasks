@@ -1,0 +1,9 @@
+Class Arithmetics{
+
+public static void main (String Args[]){
+	short a = 10;
+	short b = 10;
+system.out.println("c="+a+b);
+}
+
+}
